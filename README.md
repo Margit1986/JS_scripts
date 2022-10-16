@@ -1,2 +1,2 @@
 # JS_scripts
-Codecademy homeworks
+Learn JavaScript Codecademy homeworks sept - oct 2022
